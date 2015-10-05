@@ -1,0 +1,8 @@
+{
+    "require": {
+        "letyii/yii2-tinymce": "*",
+        "zxbodya/yii2-gallery-manager": "*@dev",
+        "newerton/yii2-fancybox": "dev-master",
+        "bupy7/yii2-flexslider": "dev-master"
+    }
+}
